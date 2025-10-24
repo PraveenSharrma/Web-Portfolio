@@ -7,7 +7,7 @@ I'm a **Full-Stack Software Engineer** focused on building clean, user-friendly,
 
 ## 🚀 Live Demo
 
-<a href="[https://praveensharrmaportfolio.netlify.app](https://praveensharrma-portfolio.netlify.app/)" target="_blank">
+<a href="https://praveensharrma-portfolio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Website-Visit%20Now-brightgreen?style=for-the-badge&logo=netlify" alt="Live Website">
 </a>
 
