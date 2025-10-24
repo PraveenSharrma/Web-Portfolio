@@ -1,58 +1,42 @@
 # 🌐 Praveen Sharma — Web Portfolio
 
 Welcome to my personal portfolio!  
-I'm a **Full-Stack Software Engineer** who enjoys turning ideas into functional, user-friendly digital experiences. This website is where I showcase my work, skills, and the projects I’m proud of.
+I'm a **Full-Stack Software Engineer** focused on building clean, user-friendly, and practical web experiences. This website showcases my skills, projects, and a bit about who I am.
 
 ---
 
 ## 🚀 Live Demo
-👉 Check it out here:  
-https://praveensharrmaportfolio.netlify.app/
+
+<a href="https://praveensharrmaportfolio.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Website-Visit%20Now-brightgreen?style=for-the-badge&logo=netlify" alt="Live Website">
+</a>
 
 ---
 
 ## ✨ Features
-- Clean and modern UI design
-- Fully responsive layout for web + mobile
-- Smooth navigation with a focus on usability
-- Showcases selected projects and my professional background
-- Contact links for easy communication
+- Modern and clean UI design
+- Responsive layout for all devices
+- Smooth navigation focused on user experience
+- Highlighted personal projects and background
+- Quick access to contact links
 
 ---
 
 ## 🛠️ Built With
-| Tech | Purpose |
-|------|---------|
-| **HTML5** | Structure & semantics |
+| Technology | Usage |
+|-----------|-------|
+| **HTML5** | Structure & semantic layout |
 | **CSS3** | Styling & responsiveness |
-| **JavaScript (soon)** | Adding interactivity & dynamic effects |
-
-> As I grow, I will continue updating this portfolio with new projects, animations, and additional tech skills like React, Tailwind, and Node.js.
-
----
-
-## 📌 Projects Highlighted
-- Full-Stack applications
-- UI/UX focused front-end builds
-- Real-world functional solutions (in progress)
-
-> More projects coming soon! ✅
 
 ---
 
 ## 📬 Contact Me
-If you'd like to collaborate or just say hello:
+Connect with me anytime:
 
-- **Email:** sharrmapraveen@gmail.com
-- **GitHub:** https://github.com/PraveenSharrma
-- **LinkedIn:** https://www.linkedin.com/in/praveensharrma/
-
----
-
-## 📄 About This Repository
-This repo contains the source code for my live personal portfolio deployed on **Netlify**.  
-Feel free to explore — feedback is always welcome!
+- **Email:** sharrmapraveen@gmail.com  
+- **GitHub:** https://github.com/PraveenSharrma  
+- **LinkedIn:** https://www.linkedin.com/in/praveensharrma/  
 
 ---
 
-Thank you for visiting! 🙌
+Thanks for visiting! 🙌
